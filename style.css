@@ -14,7 +14,7 @@ body{
     overflow: hidden;
 }
 .container{
-    max-width: 400px;
+    max-width: 430px;
     background:linear-gradient(rgb(31,38,47), rgba(30,30,30,0.3));
     border-radius: 15px;
 }
@@ -23,8 +23,8 @@ body{
 
 
 .wrapper{
-    width: 85%;
-    margin: 1.2em auto;
+    width: 88%;
+    margin: 1.4em auto;
 }
 .btns{
     display: flex;
